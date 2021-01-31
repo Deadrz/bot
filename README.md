@@ -1,1 +1,1 @@
-Bot Laravel All, Upload shell, nexmo, AWS
+Kumpulan Script Phising, Scam, Dan tools Bot
